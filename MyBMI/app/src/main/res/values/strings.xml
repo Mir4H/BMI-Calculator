@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Painoindeksilaskuri</string>
+    <string name="laske_bmi">Laske BMI</string>
+    <string name="anna_painosi">Anna painosi (kg)</string>
+    <string name="sinun_bmi_on">Sinun BMI on:</string>
+    <string name="aloitusLuku">0,00</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="tiedot">Henkilötiedot</string>
+    <string name="sync_header">Sync</string>
+    <string name="title_activity_settings">Asetukset</string>
+    <string name="pituus">Pituus (cm)</string>
+    <string name="maarita_pituus">"Määritä pituus asetuksissa"</string>
+    <string name="maarita_paino">"Määritä painosi"</string>
+    <string name="eiTietoja">Ei vielä tallennettuja tietoja</string>
+    <string name="bmiTiedot">Sinun BMI historia</string>
+    <string name="poistaBMItiedot">Poista BMI historia</string>
+    <string name="n_yt_bmi_historia">Näytä BMI historia</string>
+</resources>
